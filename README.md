@@ -1,6 +1,6 @@
 # Responsive Website on **Best Online Food Delivery Services in India | MyOnlineMeal.com**
 This is a simple responsive website built using **HTML**, **CSS**
-# MyOnlineMeal.com - Responsive Food Delivery Website
+MyOnlineMeal.com - Responsive Food Delivery Website
 
 MyOnlineMeal.com is a **responsive static website** designed for an online food delivery service. It showcases services like food catering, bulk orders, and food delivery, along with a client section and a contact form.
 ## Features
